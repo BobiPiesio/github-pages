@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pl">
+<meta charset="UTF-8">
+<head>
+    <title>Moja Pierwsza Strona</title>
+<body>
+<h1>Witaj na mojej stronie!</h1>
+<p>Tu będa pokazane różne rzeczy związane z chemią!!! .</p>
+<p style="color: red;">Pierwiastek chemiczny to substancja prosta, której nie można rozłożyć na substancję prostszą
+<p>Związek chemiczny to substancja złożona z co najmniej dwóch różnych pierwiastków chemicznych połączonych ze sobą</p>
+
+
+    <iframe <iframe width="560" height="315" src="https://www.youtube.com/embed/9hnIy3PTXa0?si=H5wLXWcBUTdgELIK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>Tu obejrzysz lekcje o pierwiastkach </p>
+</html>
